@@ -7,7 +7,7 @@ export default function App() {
   async function GetTicket() {
     document.getElementById("GetButton").style.display = "none";
     document.getElementById("Loader").style.display = "flex";
-    const waitTime = Math.floor((Math.random() * 9000 + 1000)/5);
+    const waitTime = Math.floor((Math.random() * 14000 + 1000)/5);
     setTimeout(() => {
       document.getElementById("m1").style.display = "none";
       document.getElementById("m2").style.display = "flex";
