@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/field-trip-tickets/static/css/main.6321619d.css",
+    "main.js": "/field-trip-tickets/static/js/main.a784c24d.js",
+    "static/js/453.ff8954a8.chunk.js": "/field-trip-tickets/static/js/453.ff8954a8.chunk.js",
+    "static/media/FieldTripLogo.png": "/field-trip-tickets/static/media/FieldTripLogo.f0a55b75234292150536.png",
+    "index.html": "/field-trip-tickets/index.html",
+    "main.6321619d.css.map": "/field-trip-tickets/static/css/main.6321619d.css.map",
+    "main.a784c24d.js.map": "/field-trip-tickets/static/js/main.a784c24d.js.map",
+    "453.ff8954a8.chunk.js.map": "/field-trip-tickets/static/js/453.ff8954a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6321619d.css",
+    "static/js/main.a784c24d.js"
+  ]
+}
