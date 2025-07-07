@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/field-trip-tickets/static/css/main.8a50fc96.css",
+    "main.css": "/field-trip-tickets/static/css/main.68946b7a.css",
     "main.js": "/field-trip-tickets/static/js/main.1e318168.js",
     "static/js/453.ff8954a8.chunk.js": "/field-trip-tickets/static/js/453.ff8954a8.chunk.js",
     "static/media/FieldTripLogo.png": "/field-trip-tickets/static/media/FieldTripLogo.f0a55b75234292150536.png",
     "index.html": "/field-trip-tickets/index.html",
-    "main.8a50fc96.css.map": "/field-trip-tickets/static/css/main.8a50fc96.css.map",
+    "main.68946b7a.css.map": "/field-trip-tickets/static/css/main.68946b7a.css.map",
     "main.1e318168.js.map": "/field-trip-tickets/static/js/main.1e318168.js.map",
     "453.ff8954a8.chunk.js.map": "/field-trip-tickets/static/js/453.ff8954a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a50fc96.css",
+    "static/css/main.68946b7a.css",
     "static/js/main.1e318168.js"
   ]
 }
