@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/field-trip-tickets/static/css/main.68946b7a.css",
-    "main.js": "/field-trip-tickets/static/js/main.1e318168.js",
+    "main.css": "/field-trip-tickets/static/css/main.6a18f4bc.css",
+    "main.js": "/field-trip-tickets/static/js/main.54f7f53b.js",
     "static/js/453.ff8954a8.chunk.js": "/field-trip-tickets/static/js/453.ff8954a8.chunk.js",
     "static/media/FieldTripLogo.png": "/field-trip-tickets/static/media/FieldTripLogo.f0a55b75234292150536.png",
     "index.html": "/field-trip-tickets/index.html",
-    "main.68946b7a.css.map": "/field-trip-tickets/static/css/main.68946b7a.css.map",
-    "main.1e318168.js.map": "/field-trip-tickets/static/js/main.1e318168.js.map",
+    "main.6a18f4bc.css.map": "/field-trip-tickets/static/css/main.6a18f4bc.css.map",
+    "main.54f7f53b.js.map": "/field-trip-tickets/static/js/main.54f7f53b.js.map",
     "453.ff8954a8.chunk.js.map": "/field-trip-tickets/static/js/453.ff8954a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.68946b7a.css",
-    "static/js/main.1e318168.js"
+    "static/css/main.6a18f4bc.css",
+    "static/js/main.54f7f53b.js"
   ]
 }
