@@ -40,6 +40,10 @@ body {
   letter-spacing: 0.03em;
 }
 
+#Loader {
+  display: none;
+}
+
 .Barcode {
   border-radius: 2em;
   width: 90vw;
